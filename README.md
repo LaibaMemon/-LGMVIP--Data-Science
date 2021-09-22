@@ -6,6 +6,8 @@ Beginner Level Tasks:
 
 Task 1: Iris Flower Classification
 
+Task 3: Music Recommendation
+
 Intermediate Level Tasks:
 
 Task 1: Exploratory Data Analysis on Terrorist Dataset
